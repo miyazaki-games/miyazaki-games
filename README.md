@@ -5,3 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=miyazaki-games&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}
+)](https://github.com/anuraghazra/github-readme-stats)
