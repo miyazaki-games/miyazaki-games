@@ -15,4 +15,4 @@
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miyazaki-games&layout=compact&theme=dracula)¥
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miyazaki-games&layout=compact&theme=dracula)
