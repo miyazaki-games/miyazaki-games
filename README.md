@@ -14,5 +14,3 @@
     <img src="https://komarev.com/ghpvc/?username=miyazaki-games" alt="miyazaki-games" />
   </a>
 </p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miyazaki-games&layout=compact&theme=dracula)
