@@ -1,7 +1,7 @@
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyazaki-games&layout=compact&count_private=true&show_icons=true&theme=dracula" /></p>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyazaki-games)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyazaki-games&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=miyazaki-games&theme=dracula&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
